@@ -1,0 +1,6 @@
+package com.example.nama_apps
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
