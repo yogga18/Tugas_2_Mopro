@@ -1,3 +1,17 @@
+# Yogga Aditya Candra
+# 065118216
+
+# Tugas 2 
+2.1 Membuat layout menggunakan widget Column dan Row
+    * Container
+    * Column
+    * Row
+
+4.2 Membuat layout profil
+    * CircleAvatar
+    * Card
+    * SafeArea
+
 # nama_apps
 
 A new Flutter project.
